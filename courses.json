@@ -18,6 +18,7 @@
     "Lecture 11.2 - Transference - Part2 (CMU Multimodal Machine Learning, Fall 2023)": "https://www.youtube.com/watch?v=GbgOqFcbgfc",
     "Lecture 12.1 - New Research Direction (CMU Multimodal Machine Learning, Fall 2023)": "https://www.youtube.com/watch?v=p2lTDGBlx6M"
   },
+  
   "CMU Advanced Database Systems (15-721 - Spring 2024)": {
     "S2024 #00 - Course Overview & Logistics (CMU Advanced Database Systems)": "https://www.youtube.com/watch?v=NLycrsJ1jI8",
     "S2024 #01 - Modern OLAP Database Systems (CMU Advanced Database Systems)": "https://www.youtube.com/watch?v=5J-I8Mj8tss",
@@ -647,15 +648,15 @@
   },
 
   "Tübingen Trustworthy Machine Learning - Winter Semester 2024/2025": {
-    "Trustworthy ML - WS24/25 - Lecture 8": "https://www.youtube.com/watch?v=ZfSSZx2CMco",
-    "Trustworthy ML - WS24/25 - Lecture 7": "https://www.youtube.com/watch?v=gKkuNHv2agY",
-    "Trustworthy ML - WS24/25 - Lecture 6 (revised)": "https://www.youtube.com/watch?v=u5Rswryc0LI",
-    "Trustworthy ML - WS24/25 - Lecture 6": "https://www.youtube.com/watch?v=OFReJWWXdUo",
-    "Trustworthy ML - WS24/25 - Lecture 5": "https://www.youtube.com/watch?v=c-txRWzQRUY",
-    "Trustworthy ML - WS24/25 - Lecture 4": "https://www.youtube.com/watch?v=Sp055N16dQ4",
+    "Trustworthy ML - WS24/25 - Lecture 1": "https://www.youtube.com/watch?v=OoLAafHghGQ",    
+    "Trustworthy ML - WS24/25 - Lecture 2": "https://www.youtube.com/watch?v=ZSIJWl5wRM0",    
     "Trustworthy ML - WS24/25 - Lecture 3": "https://www.youtube.com/watch?v=0YtyyMhnR88",
-    "Trustworthy ML - WS24/25 - Lecture 2": "https://www.youtube.com/watch?v=ZSIJWl5wRM0",
-    "Trustworthy ML - WS24/25 - Lecture 1": "https://www.youtube.com/watch?v=OoLAafHghGQ",
+    "Trustworthy ML - WS24/25 - Lecture 4": "https://www.youtube.com/watch?v=Sp055N16dQ4",
+    "Trustworthy ML - WS24/25 - Lecture 5": "https://www.youtube.com/watch?v=c-txRWzQRUY",
+    "Trustworthy ML - WS24/25 - Lecture 6": "https://www.youtube.com/watch?v=OFReJWWXdUo",
+    "Trustworthy ML - WS24/25 - Lecture 6 (revised)": "https://www.youtube.com/watch?v=u5Rswryc0LI",
+    "Trustworthy ML - WS24/25 - Lecture 7": "https://www.youtube.com/watch?v=gKkuNHv2agY",
+    "Trustworthy ML - WS24/25 - Lecture 8": "https://www.youtube.com/watch?v=ZfSSZx2CMco",
     "Trustworthy ML - WS24/25 - Lecture 9": "https://www.youtube.com/watch?v=ypivms7e-Ug",
     "Trustworthy ML - WS24/25 - Lecture 10": "https://www.youtube.com/watch?v=XX57pTxTc9A",
     "Trustworthy ML - WS24/25 - Lecture 11": "https://www.youtube.com/watch?v=QStdPZVL45o",
