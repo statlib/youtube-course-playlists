@@ -650,10 +650,16 @@
     "Erlang Master Class 1.5 Compiling and Running on a Virtual Machine": "https://www.youtube.com/watch?v=2tKnNiVxqj8",
     "Erlang Master Class 1.6 Parsing": "https://www.youtube.com/watch?v=fPnshtOzlS0",
     "Erlang Master Class 1.7 Simplification": "https://www.youtube.com/watch?v=M-SABVvQMwE",
-    "Erlang Master Class 1: Discussion": "https://www.youtube.com/watch?v=896Q0H3XDVM",
+    "Erlang Master Class 1.8 Discussion": "https://www.youtube.com/watch?v=896Q0H3XDVM",
     "Erlang Master Class 2.1 Turning Sequential Code Into Concurrent Code": "https://www.youtube.com/watch?v=brklJ6yTH50",
     "Erlang Master Class 2.2 Abstracting Patters of Concurrency": "https://www.youtube.com/watch?v=cvtrxeh8ZA8",
-    "Erlang Master Class 2: Discussion": "https://www.youtube.com/watch?v=LHFQgL8MFHQ"
+    "Erlang Master Class 2.3 Discussion": "https://www.youtube.com/watch?v=LHFQgL8MFHQ",
+    "Erlang Master Class 3.1 - Client Servers": "https://www.youtube.com/watch?v=9HVvzSsdW9k",
+    "Erlang Master Class 3.2 - What's in a Message?": "https://www.youtube.com/watch?v=upGZMJBh81A",
+    "Erlang Master Class 3.3 - Generic Servers": "https://www.youtube.com/watch?v=MRZVloyV0H8",
+    "Erlang Master Class 3.4 - Supervisors": "https://www.youtube.com/watch?v=q3WUAOZwinw",
+    "Erlang Master Class 3.5 - Applications": "https://www.youtube.com/watch?v=mnAEcuVY010",
+    "Erlang Master Class 3.6 - Discussion": "https://www.youtube.com/watch?v=0i1WUVANr3o"
   },
   "UKent - Functional Programming with Erlang": {
     "Trailer for Functional Programming with Erlang": "https://www.youtube.com/watch?v=yZ-e6ZT4G6U",
@@ -691,7 +697,7 @@
     "Week 3 1.1 Introduction to Week 3": "https://www.youtube.com/watch?v=BGN0t-9H09Y",
     "Week 3 1.2 Functional patterns": "https://www.youtube.com/watch?v=Os2Oc3rWwX8",
     "Week 3 1.3 From specific to generic": "https://www.youtube.com/watch?v=YzzQ3ccLMoE",
-    "Week 3 1.6 Higher order functions   feedback and summary": "https://www.youtube.com/watch?v=OnpudVWEKjU",
+    "Week 3 1.6 Higher order functions feedback and summary": "https://www.youtube.com/watch?v=OnpudVWEKjU",
     "Week 3 2.1 The game of rock-paper-scissors": "https://www.youtube.com/watch?v=FXKh9K7D_PI",
     "Week 3 2.3 Modelling and strategies in rock-paper-scissors": "https://www.youtube.com/watch?v=-EZy2_aSdNI",
     "Week 3 2.4 Functions as results": "https://www.youtube.com/watch?v=f-9uGmIx61Y",
